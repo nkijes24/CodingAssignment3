@@ -26,7 +26,7 @@ header h1 {
 }
 
 .box {
-  border: 3px solid #4da3ff;
+  border: none;
   padding: 15px;
   background-color: rgba(0, 0, 0, 0.4); 
 }
