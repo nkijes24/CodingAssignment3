@@ -16,6 +16,7 @@ header {
 header h1 {
   color: white;
   font-style: italic;
+  font-family: "Berkshire Swash", cursive;
 }
 
 .container {
@@ -34,6 +35,7 @@ header h1 {
 h2 {
   color: white;
   font-style: italic;
+  font-family: "Berkshire Swash", cursive;
 }
 
 a {
