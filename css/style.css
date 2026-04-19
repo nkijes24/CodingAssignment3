@@ -87,3 +87,14 @@ ul {
 ol {
   color: #ffcc66;
 }
+.wrapper {
+
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+
+}
