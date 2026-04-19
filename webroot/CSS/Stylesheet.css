@@ -1,0 +1,91 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://raw.githubusercontent.com/nkijes24/CodingAssignment3/blob/main/webroot/images/BackgroundPicture.jpg); 
+  background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: #00ffff; 
+}
+
+header {
+  padding: 20px;
+}
+
+header h1 {
+  color: gold;
+  font-style: italic;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.box {
+  border: 3px solid #4da3ff;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.4); 
+}
+
+h2 {
+  color: gold;
+  font-style: italic;
+}
+
+a {
+  color: #00ffff;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 15px 0;
+}
+
+.photo-credit {
+  color: #ffcc66;
+  font-size: 0.9em;
+}
+
+fieldset {
+  border: 2px solid black;
+  background-color: #d2a679;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+legend {
+  background-color: #d2a679;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+label {
+  margin-right: 15px;
+  color: black;
+}
+
+.conversion-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.conversion-box input {
+  width: 120px;
+  padding: 5px;
+}
+
+ul {
+  color: #ffcc66;
+}
+
+ol {
+  color: #ffcc66;
+}
